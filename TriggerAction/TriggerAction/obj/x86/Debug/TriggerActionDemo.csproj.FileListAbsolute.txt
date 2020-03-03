@@ -1,0 +1,2 @@
+C:\TriggerBehaviour\TriggerAction\TriggerAction\obj\x86\Debug\App.g.cs
+C:\TriggerBehaviour\TriggerAction\TriggerAction\obj\x86\Debug\TriggerActionDemo_MarkupCompile.cache

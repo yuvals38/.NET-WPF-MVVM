@@ -1,0 +1,113 @@
+C:\wpf-mvvmlight\wpf-mvvmlight-master\WPF_MVVMLight_CRUD\bin\Debug\WPF_MVVMLight_CRUD.exe.config
+C:\wpf-mvvmlight\wpf-mvvmlight-master\WPF_MVVMLight_CRUD\bin\Debug\WPF_MVVMLight_CRUD.exe
+C:\wpf-mvvmlight\wpf-mvvmlight-master\WPF_MVVMLight_CRUD\bin\Debug\WPF_MVVMLight_CRUD.pdb
+C:\wpf-mvvmlight\wpf-mvvmlight-master\WPF_MVVMLight_CRUD\bin\Debug\EntityFramework.dll
+C:\wpf-mvvmlight\wpf-mvvmlight-master\WPF_MVVMLight_CRUD\bin\Debug\EntityFramework.SqlServer.dll
+C:\wpf-mvvmlight\wpf-mvvmlight-master\WPF_MVVMLight_CRUD\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.dll
+C:\wpf-mvvmlight\wpf-mvvmlight-master\WPF_MVVMLight_CRUD\bin\Debug\GalaSoft.MvvmLight.WPF45.dll
+C:\wpf-mvvmlight\wpf-mvvmlight-master\WPF_MVVMLight_CRUD\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\wpf-mvvmlight\wpf-mvvmlight-master\WPF_MVVMLight_CRUD\bin\Debug\System.Windows.Interactivity.dll
+C:\wpf-mvvmlight\wpf-mvvmlight-master\WPF_MVVMLight_CRUD\bin\Debug\EntityFramework.xml
+C:\wpf-mvvmlight\wpf-mvvmlight-master\WPF_MVVMLight_CRUD\bin\Debug\EntityFramework.SqlServer.xml
+C:\wpf-mvvmlight\wpf-mvvmlight-master\WPF_MVVMLight_CRUD\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.pdb
+C:\wpf-mvvmlight\wpf-mvvmlight-master\WPF_MVVMLight_CRUD\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.xml
+C:\wpf-mvvmlight\wpf-mvvmlight-master\WPF_MVVMLight_CRUD\bin\Debug\GalaSoft.MvvmLight.WPF45.pdb
+C:\wpf-mvvmlight\wpf-mvvmlight-master\WPF_MVVMLight_CRUD\bin\Debug\GalaSoft.MvvmLight.WPF45.xml
+C:\wpf-mvvmlight\wpf-mvvmlight-master\WPF_MVVMLight_CRUD\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\wpf-mvvmlight\wpf-mvvmlight-master\WPF_MVVMLight_CRUD\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\wpf-mvvmlight\wpf-mvvmlight-master\WPF_MVVMLight_CRUD\bin\Debug\System.Windows.Interactivity.xml
+C:\wpf-mvvmlight\wpf-mvvmlight-master\WPF_MVVMLight_CRUD\obj\Debug\Views\EmployeeInfoView.baml
+C:\wpf-mvvmlight\wpf-mvvmlight-master\WPF_MVVMLight_CRUD\obj\Debug\Views\SaveEmployeeView.baml
+C:\wpf-mvvmlight\wpf-mvvmlight-master\WPF_MVVMLight_CRUD\obj\Debug\MainWindow.g.cs
+C:\wpf-mvvmlight\wpf-mvvmlight-master\WPF_MVVMLight_CRUD\obj\Debug\Views\EmployeeInfoView.g.cs
+C:\wpf-mvvmlight\wpf-mvvmlight-master\WPF_MVVMLight_CRUD\obj\Debug\Views\SaveEmployeeView.g.cs
+C:\wpf-mvvmlight\wpf-mvvmlight-master\WPF_MVVMLight_CRUD\obj\Debug\App.g.cs
+C:\wpf-mvvmlight\wpf-mvvmlight-master\WPF_MVVMLight_CRUD\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\wpf-mvvmlight\wpf-mvvmlight-master\WPF_MVVMLight_CRUD\obj\Debug\WPF_MVVMLight_CRUD_MarkupCompile.cache
+C:\wpf-mvvmlight\wpf-mvvmlight-master\WPF_MVVMLight_CRUD\obj\Debug\WPF_MVVMLight_CRUD_MarkupCompile.lref
+C:\wpf-mvvmlight\wpf-mvvmlight-master\WPF_MVVMLight_CRUD\obj\Debug\App.baml
+C:\wpf-mvvmlight\wpf-mvvmlight-master\WPF_MVVMLight_CRUD\obj\Debug\MainWindow.baml
+C:\wpf-mvvmlight\wpf-mvvmlight-master\WPF_MVVMLight_CRUD\obj\Debug\WPF_MVVMLight_CRUD.g.resources
+C:\wpf-mvvmlight\wpf-mvvmlight-master\WPF_MVVMLight_CRUD\obj\Debug\WPF_MVVMLight_CRUD.Properties.Resources.resources
+C:\wpf-mvvmlight\wpf-mvvmlight-master\WPF_MVVMLight_CRUD\obj\Debug\WPF_MVVMLight_CRUD.csproj.GenerateResource.cache
+C:\wpf-mvvmlight\wpf-mvvmlight-master\WPF_MVVMLight_CRUD\obj\Debug\WPF_MVVMLight_CRUD.csproj.CoreCompileInputs.cache
+C:\wpf-mvvmlight\wpf-mvvmlight-master\WPF_MVVMLight_CRUD\obj\Debug\WPF_MVVMLight_CRUD.csproj.CopyComplete
+C:\wpf-mvvmlight\wpf-mvvmlight-master\WPF_MVVMLight_CRUD\obj\Debug\WPF_MVVMLight_CRUD.exe
+C:\wpf-mvvmlight\wpf-mvvmlight-master\WPF_MVVMLight_CRUD\obj\Debug\WPF_MVVMLight_CRUD.pdb
+C:\wpf-mvvmlight\wpf-mvvmlight-master\WPF_MVVMLight_CRUD\obj\Debug\WPF_MVVMLight_CRUD_Content.g.cs
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\bin\Debug\WPF_MVVMLight_CRUD.exe.config
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\bin\Debug\WPF_MVVMLight_CRUD.exe
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\bin\Debug\WPF_MVVMLight_CRUD.pdb
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\bin\Debug\EntityFramework.dll
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\bin\Debug\EntityFramework.SqlServer.dll
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.dll
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\bin\Debug\GalaSoft.MvvmLight.WPF45.dll
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\bin\Debug\System.Windows.Interactivity.dll
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\bin\Debug\EntityFramework.xml
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\bin\Debug\EntityFramework.SqlServer.xml
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.pdb
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.xml
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\bin\Debug\GalaSoft.MvvmLight.WPF45.pdb
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\bin\Debug\GalaSoft.MvvmLight.WPF45.xml
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\bin\Debug\System.Windows.Interactivity.xml
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\WPF_MVVMLight_CRUD.csprojAssemblyReference.cache
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\Views\EmployeeInfoView.baml
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\Views\SaveEmployeeView.baml
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\MainWindow.g.cs
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\Views\EmployeeInfoView.g.cs
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\Views\SaveEmployeeView.g.cs
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\App.g.cs
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\WPF_MVVMLight_CRUD_Content.g.cs
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\WPF_MVVMLight_CRUD_MarkupCompile.cache
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\WPF_MVVMLight_CRUD_MarkupCompile.lref
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\App.baml
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\MainWindow.baml
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\WPF_MVVMLight_CRUD.g.resources
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\WPF_MVVMLight_CRUD.Properties.Resources.resources
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\WPF_MVVMLight_CRUD.csproj.GenerateResource.cache
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\WPF_MVVMLight_CRUD.csproj.CoreCompileInputs.cache
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\WPF_MVVMLight_CRUD.csproj.CopyComplete
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\WPF_MVVMLight_CRUD.exe
+C:\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\WPF_MVVMLight_CRUD.pdb
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\bin\Debug\WPF_MVVMLight_CRUD.exe.config
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\bin\Debug\WPF_MVVMLight_CRUD.exe
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\bin\Debug\WPF_MVVMLight_CRUD.pdb
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\bin\Debug\EntityFramework.dll
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.dll
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\bin\Debug\GalaSoft.MvvmLight.WPF45.dll
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\bin\Debug\EntityFramework.xml
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.pdb
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.xml
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\bin\Debug\GalaSoft.MvvmLight.WPF45.pdb
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\bin\Debug\GalaSoft.MvvmLight.WPF45.xml
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\WPF_MVVMLight_CRUD.csprojAssemblyReference.cache
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\Views\EmployeeInfoView.baml
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\Views\SaveEmployeeView.baml
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\MainWindow.g.cs
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\Views\EmployeeInfoView.g.cs
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\Views\SaveEmployeeView.g.cs
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\App.g.cs
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\WPF_MVVMLight_CRUD_Content.g.cs
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\WPF_MVVMLight_CRUD_MarkupCompile.cache
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\WPF_MVVMLight_CRUD_MarkupCompile.lref
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\App.baml
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\MainWindow.baml
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\WPF_MVVMLight_CRUD.g.resources
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\WPF_MVVMLight_CRUD.Properties.Resources.resources
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\WPF_MVVMLight_CRUD.csproj.GenerateResource.cache
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\WPF_MVVMLight_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\WPF_MVVMLight_CRUD.csproj.CopyComplete
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\WPF_MVVMLight_CRUD.exe
+C:\Users\yuval.s\Downloads\WPF MVVM\wpf-mvvmlight-CRUD\WPF_MVVMLight_CRUD\obj\Debug\WPF_MVVMLight_CRUD.pdb

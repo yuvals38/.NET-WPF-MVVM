@@ -1,0 +1,16 @@
+C:\TriggerBehaviour\TargetedTriggerAction\TargetedTriggerAction\bin\Debug\TargetedTriggerAction.exe
+C:\TriggerBehaviour\TargetedTriggerAction\TargetedTriggerAction\bin\Debug\TargetedTriggerAction.pdb
+C:\TriggerBehaviour\TargetedTriggerAction\TargetedTriggerAction\bin\Debug\System.Windows.Interactivity.dll
+C:\TriggerBehaviour\TargetedTriggerAction\TargetedTriggerAction\obj\x86\Debug\TargetedTriggerAction.csprojResolveAssemblyReference.cache
+C:\TriggerBehaviour\TargetedTriggerAction\TargetedTriggerAction\obj\x86\Debug\MainWindow.g.cs
+C:\TriggerBehaviour\TargetedTriggerAction\TargetedTriggerAction\obj\x86\Debug\App.g.cs
+C:\TriggerBehaviour\TargetedTriggerAction\TargetedTriggerAction\obj\x86\Debug\TargetedTriggerAction_Content.g.cs
+C:\TriggerBehaviour\TargetedTriggerAction\TargetedTriggerAction\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\TriggerBehaviour\TargetedTriggerAction\TargetedTriggerAction\obj\x86\Debug\TargetedTriggerAction_MarkupCompile.cache
+C:\TriggerBehaviour\TargetedTriggerAction\TargetedTriggerAction\obj\x86\Debug\TargetedTriggerAction_MarkupCompile.lref
+C:\TriggerBehaviour\TargetedTriggerAction\TargetedTriggerAction\obj\x86\Debug\MainWindow.baml
+C:\TriggerBehaviour\TargetedTriggerAction\TargetedTriggerAction\obj\x86\Debug\TargetedTriggerAction.g.resources
+C:\TriggerBehaviour\TargetedTriggerAction\TargetedTriggerAction\obj\x86\Debug\TargetedTriggerAction.Properties.Resources.resources
+C:\TriggerBehaviour\TargetedTriggerAction\TargetedTriggerAction\obj\x86\Debug\TargetedTriggerAction.csproj.GenerateResource.Cache
+C:\TriggerBehaviour\TargetedTriggerAction\TargetedTriggerAction\obj\x86\Debug\TargetedTriggerAction.exe
+C:\TriggerBehaviour\TargetedTriggerAction\TargetedTriggerAction\obj\x86\Debug\TargetedTriggerAction.pdb

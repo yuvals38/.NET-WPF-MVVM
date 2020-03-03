@@ -1,0 +1,16 @@
+C:\TriggerBehaviour\Behavior\Behavior\bin\Debug\Behavior.exe
+C:\TriggerBehaviour\Behavior\Behavior\bin\Debug\Behavior.pdb
+C:\TriggerBehaviour\Behavior\Behavior\bin\Debug\System.Windows.Interactivity.dll
+C:\TriggerBehaviour\Behavior\Behavior\obj\x86\Debug\Behavior.csprojResolveAssemblyReference.cache
+C:\TriggerBehaviour\Behavior\Behavior\obj\x86\Debug\MainWindow.g.cs
+C:\TriggerBehaviour\Behavior\Behavior\obj\x86\Debug\App.g.cs
+C:\TriggerBehaviour\Behavior\Behavior\obj\x86\Debug\Behavior_Content.g.cs
+C:\TriggerBehaviour\Behavior\Behavior\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\TriggerBehaviour\Behavior\Behavior\obj\x86\Debug\Behavior_MarkupCompile.cache
+C:\TriggerBehaviour\Behavior\Behavior\obj\x86\Debug\Behavior_MarkupCompile.lref
+C:\TriggerBehaviour\Behavior\Behavior\obj\x86\Debug\MainWindow.baml
+C:\TriggerBehaviour\Behavior\Behavior\obj\x86\Debug\Behavior.g.resources
+C:\TriggerBehaviour\Behavior\Behavior\obj\x86\Debug\Behavior.Properties.Resources.resources
+C:\TriggerBehaviour\Behavior\Behavior\obj\x86\Debug\Behavior.csproj.GenerateResource.Cache
+C:\TriggerBehaviour\Behavior\Behavior\obj\x86\Debug\Behavior.exe
+C:\TriggerBehaviour\Behavior\Behavior\obj\x86\Debug\Behavior.pdb
